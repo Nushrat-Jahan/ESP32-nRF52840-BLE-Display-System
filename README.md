@@ -1,4 +1,4 @@
-# Programming Connected Devices Final Project
+# ESP32-nRF52840 BLE Display System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
